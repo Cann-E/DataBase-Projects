@@ -1,0 +1,3 @@
+T1(k1(pk),k2(fk:T2.k2),A,B)
+T2(k2(pk),C)
+T3(k3(pk),k2(fk:T2.k2),D)
